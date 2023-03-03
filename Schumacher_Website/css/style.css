@@ -1,0 +1,25 @@
+body {background-color: black; font: Arial; font-size: 16pt;}
+h1 {color: black}
+ul li{font-style: bold; background-color: gray}
+p.italicline{
+    color: gray;
+    font-style: bold;
+    font-size: large;
+}
+
+.flex_containter{
+    display: flex;
+    flex-direction: column;
+}
+
+.flex_containter2{
+    display: flex;
+    flex-direction: row;
+}
+
+.flex_item{
+    background-color: gray;
+    margin: 10px;
+    font-size: 16pt;
+    flex: 1;
+}

@@ -1,0 +1,14 @@
+body {background-color: red; font: Arial; font-size: 16pt;}
+h1 {color: black}
+table.Standout{
+    color: red;
+    background-color: gray;
+    font: Courier;
+}
+p.question{
+    color:blue;
+}
+p#Redline{
+    color:red;
+    font: Courier;
+}
